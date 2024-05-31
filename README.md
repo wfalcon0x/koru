@@ -1,1 +1,5 @@
 # koru
+
+Koru solves the problem of limited access to affordable credit for the underbanked in emerging markets by offering instant self-repaying loans. Borrowers can lock up USDC as collateral and receive highly competitive cash offers for their future yield today in local currency at a MoneyGram location. This solution does not require borrowers to have a credit score history, eliminates the risk of default, and allows them to hold stable USD while spending local currency for their everyday needs. 
+
+Koru leverages Stellar's smart contract ecosystem and MoneyGram's cash-to-crypto conversions, enabling users to maintain their savings in USDC while accessing credit in local currency. Additionally, Koru bridges to other blockchains via Allbridge to access higher, more liquid yields, maximizing cash offers for users and driving economic growth in underserved regions.
